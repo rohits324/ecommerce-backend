@@ -1,0 +1,37 @@
+# Maven build output
+target/
+*.releaseBackup
+
+# Log files
+*.log
+logs/
+
+# IDEs and Editors
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+.factorypath
+.springBeans
+bin/
+dependency-reduced-pom.xml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Virtual environments & local files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Package managers
+.mvn/wrapper/
+.mvn/
+mvnw
+mvnw.cmd
